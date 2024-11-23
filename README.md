@@ -1,4 +1,4 @@
-# By MIGUELITO SAMA
+# By MIGUELITODevCode
 Mini System Manager
 
 This is Beta version, download archive for C# project and .exe for appplication...
